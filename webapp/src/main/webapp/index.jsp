@@ -34,5 +34,5 @@
 
    <h1> Thankyou, Happy Learning  fox this is first jenkins Job! </h1>
    <h1> chand tare ful sabnam tumse aacha kon hai </h1>
-   <h1> koi rut ho ya koi mosam tumse accha kon hai </h1>
+   <h1> koi rut ho ya koi mosam tumse accha kon hi </h1>
 </form>
